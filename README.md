@@ -18,6 +18,8 @@ HEML is an open source markup language for building responsive email.
 
 
 ## FAQ
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fheml.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fheml?ref=badge_shield)
+
 
 ### Why should I use HEML?
 
@@ -38,3 +40,6 @@ Awesome!! We welcome any and all help! Head over to the [issues](https://github.
 ## License
 
 [MIT](https://github.com/SparkPost/heml/blob/master/LICENSE)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fheml.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fheml?ref=badge_large)
